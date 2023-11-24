@@ -7,7 +7,7 @@ function HomePageCardsBlock() {
 	const [posts, setPosts] = useState([])
 
 	useEffect(() => {
-		fetch('http://localhost:3004/catalog')
+		fetch('http://localhost:3005/catalog')
 			.then(res => res.json())
 			.then(data => {
 				const firstThreeItems = data.slice(0, 3)

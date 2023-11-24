@@ -15,7 +15,7 @@
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
-		"start": "concurrently \"react-scripts start\" \"npx json-server heroes.json --port 3004\"",
+		"start": "concurrently \"react-scripts start\" \"npx json-server db.json --port 3005\"",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"

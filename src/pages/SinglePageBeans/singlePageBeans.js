@@ -13,7 +13,7 @@ const SinglePageBeans = () => {
 	const [coffeeCard, setCoffeeCard] = useState([])
 
 	useEffect(() => {
-		fetch('http://localhost:3004/catalog')
+		fetch('http://localhost:3005/catalog')
 			.then(res => res.json())
 			.then(data => {
 				const filteredCoffee = data.filter(coffee => coffee.id === parseInt(id))
