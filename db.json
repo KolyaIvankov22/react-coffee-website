@@ -1,0 +1,73 @@
+{
+	"catalog": [
+		{
+			"id": 1,
+			"name": "Solimo Coffee Beans 2 kg",
+			"image": "https://m.media-amazon.com/images/I/51cdy5qyV6L.jpg",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "10.73$"
+		},
+		{
+			"id": 2,
+			"name": "Presto Coffee Beans 1 kg",
+			"image": "https://cdn.shopify.com/s/files/1/0295/0987/7813/products/coffee_machine_beans_grinder_pods_table_tea_sugar_sets_espresso_cups_syrup_1kg_sachets_reusable_cup_maker_mug_ground_decaf_arabica_1KG_robusta_filter_bean_to_freshly_roasted_single_or_250x250@2x.jpg?,v=1590930223",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "15.99$"
+		},
+		{
+			"id": 3,
+			"name": "AROMISTICO Coffee 1 kg",
+			"image": "https://assets.onbuy.com/i25/product/67edf9efae014974aad5ec26bd9f2168-m238552463/aromistico-intense-crema-light-blonde-roast-premium-italian-whole-coffee-beans-venezia-blend-fragrant-sweet-and-berry-like-espresso-moka-pot.jpg",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 4,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "AROMISTICO Coffee 1 kg",
+			"country": "Columbia",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 5,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "Wide Awake Coffee 1 kg",
+			"country": "Kenya",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 6,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "Starbucks 1 kg",
+			"country": "Brazil",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 7,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "Starbucks 1 kg",
+			"country": "Brazil",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 8,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "Donuts Coffee 1 kg",
+			"country": "Columbia",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		},
+		{
+			"id": 9,
+			"image": "https://pankukucka.sk/image/cache/catalog/products/005519/zlate_zrnko_emilia-500x500-600x600.jpg",
+			"name": "Caribou Coffee 1 kg",
+			"country": "Brazil",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+			"price": "6.99$"
+		}
+	]
+}

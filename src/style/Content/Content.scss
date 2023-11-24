@@ -1,0 +1,21 @@
+.beans {
+	max-width: 800px;
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-bottom: 120px;
+
+	.beansContent {
+		display: flex;
+		gap: 80px;
+
+		.aboutBeans {
+			text-align: center;
+		}
+		h2 {
+			margin-bottom: 20px;
+		}
+		p {
+			margin-top: 20px;
+		}
+	}
+}

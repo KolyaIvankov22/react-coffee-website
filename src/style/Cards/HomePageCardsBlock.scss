@@ -1,0 +1,21 @@
+.startPageBest {
+	background-image: url('../../../src/assets/images/bg-paper.jpg');
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 110px;
+
+	.startPageBestCards {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 70px;
+		margin-top: 40px;
+	}
+
+	h3 {
+		color: #000;
+		text-align: center;
+		font-size: 24px;
+		padding-top: 80px;
+	}
+}

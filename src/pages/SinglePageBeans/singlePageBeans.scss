@@ -1,0 +1,29 @@
+.order {
+	max-width: 865px;
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-bottom: 120px;
+
+	.orderContent {
+		display: flex;
+		gap: 80px;
+		margin-bottom: 70px;
+
+		.orderInfo {
+			text-align: center;
+		}
+		h2 {
+			margin-bottom: 20px;
+		}
+		p {
+			margin-top: 25px;
+			text-align: left;
+		}
+		p:first-child {
+			font-weight: 700;
+		}
+		p:last-child {
+			font-weight: 700;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+$footer-color: black;
+
+.footerNav {
+	.footerNavList {
+		list-style: none;
+		display: flex;
+		gap: 40px;
+		justify-content: center;
+		padding-top: 30px;
+		margin-bottom: 30px;
+
+		li {
+			a {
+				color: $footer-color;
+				font-size: 12px;
+				font-weight: 400;
+			}
+		}
+	}
+	.footerImg {
+		margin: 0 auto;
+		display: block;
+		padding-bottom: 20px;
+	}
+}

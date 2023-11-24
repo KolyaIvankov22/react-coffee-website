@@ -1,0 +1,45 @@
+.catalogContainer {
+	max-width: 800px;
+	margin: 0 auto;
+	margin-top: 60px;
+	display: grid;
+	justify-items: center;
+	grid-template-rows: repeat(2, 1fr);
+	grid-template-columns: repeat(3, 1fr);
+	gap: 70px;
+
+	.catalogCards {
+		background: #fff;
+		border-radius: 8px;
+		box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+		padding: 37px 27px 20px 27px;
+		text-align: right;
+		margin-bottom: 30px;
+
+		h2 {
+			text-align: right;
+			margin-top: 15px;
+			font-size: 13px;
+			text-decoration: none;
+			color: #000;
+		}
+		p {
+			margin-top: 15px;
+			font-size: 14px;
+			display: block;
+			color: black;
+			font-weight: bold;
+			margin-top: 15px;
+			font-size: 14px;
+			cursor: pointer;
+		}
+		button {
+			display: block;
+			color: black;
+			font-weight: bold;
+			margin-top: 15px;
+			font-size: 14px;
+			cursor: pointer;
+		}
+	}
+}
